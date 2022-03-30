@@ -4,6 +4,7 @@ description: Lecture notes on linear equivalence, algebraic equivalence, and num
   equivalence of divisors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/198274c0c471d31fc05d600e28e403db_lect2.pdf
 file_type: application/pdf
+parent_uid: 69f57587-1561-0033-a9a7-a7f7e08b6049
 resourcetype: Document
 title: Lecture 2
 uid: 198274c0-c471-d31f-c05d-600e28e403db
